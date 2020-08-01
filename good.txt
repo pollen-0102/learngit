@@ -10,6 +10,3 @@ i  love  成都
 
 i will come shanghai
 
-
-
-Creating a new branch is quick.
