@@ -9,9 +9,14 @@
 -- tc_sourcing_demand
 -- tc_sourcing_demand_detail
 P151-P158
+陈鑫:（101-最后）统计tc开头的表
 
-潘泓达:
-统计reg开头的表
 
-张剑：
-统计tm开头的
+
+潘泓达:（1-50）统计reg开头的表
+reg_authorized_contacts
+reg_annex
+reg_address
+
+
+张剑：（51-100）统计tm开头的
