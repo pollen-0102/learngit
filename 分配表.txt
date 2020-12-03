@@ -1,7 +1,7 @@
 陈鑫:统计tc开头的表
 -- tc_company   pushed-P1
 -- tc_factory   pushed-P2
--- tc_group
+-- tc_group     pushed-P2
 -- tc_org
 -- tc_purchase_group
 -- tc_purchase_group_copy
