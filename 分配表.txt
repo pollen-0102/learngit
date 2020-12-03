@@ -4,7 +4,7 @@
 -- tc_group     pushed-P3
 -- tc_org       pushed-P4
 -- tc_purchase_group    pushed-P5
--- tc_purchase_group_copy
+-- tc_purchase_group_copy   pushed-P6
 -- tc_sourcing_demand
 -- tc_sourcing_demand_detail
 
